@@ -1,0 +1,10 @@
+Organization ID
+3nbtu4
+Device Type
+b11m3edevicetype
+Device ID
+amul098
+Authentication Method
+use-token-auth
+Authentication Token
+12345678
